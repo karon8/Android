@@ -1,16 +1,31 @@
-Ammonia OS
+Ammonia OS Description
 ===========
-
-Getting Started
----------------
+English Description：
+Getting Started：
 
 To get started with Ammonia OS, you'll need to get
-familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
+1、familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
 
-To initialize your local repository using the Android One trees, use a command like this:
+2、To initialize your local repository using the Android One trees, use a command like this:
 
     repo init -u git://github.com/AmmoniaOS/android.git -b lp5.0
 
 Then to sync up:
+
+    repo sync
+
+氨OS说明
+===========
+中文说明：
+开始：
+
+开始氨OS，你需要知道如下几点
+1、熟悉 [Git and Repo](http://source.android.com/source/using-repo.html).
+
+2、使用氨系统树初始化您的本地存储库，请使用下面的命令:
+
+    repo init -u git://github.com/AmmoniaOS/android.git -b lp5.0
+
+然后同步:
 
     repo sync
