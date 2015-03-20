@@ -1,10 +1,12 @@
 Ammonia OS Description
 ===========
+
+"Ammonia OS" is based on a new branch of the CM and AOSP established, formally initiated by ammonia OS team in March 20, 2015. Our pursuit: to create a set of practical, high definition, pure flat interface of open source projects.
+
 English Description：
 Getting Started：
 
-To get started with Ammonia OS, you'll need to get
-1、familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
+1、To get started with Ammonia OS, you'll need to get familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
 
 2、To initialize your local repository using the Android One trees, use a command like this:
 
@@ -16,11 +18,13 @@ Then to sync up:
 
 氨OS说明
 ===========
+
+“氨OS” 是一个基于CM与AOSP建立的新分支，由氨OS团队于2015年3月20日正式发起。我们的追求：打造一个集实用、高度定义、纯扁平化界面的开源项目。
+
 中文说明：
 开始：
 
-开始氨OS，你需要知道如下几点
-1、熟悉 [Git and Repo](http://source.android.com/source/using-repo.html).
+1、开始氨OS，你需要熟悉并掌握 [Git和Repo](http://source.android.com/source/using-repo.html).
 
 2、使用氨系统树初始化您的本地存储库，请使用下面的命令:
 
